@@ -35,9 +35,11 @@ void get_data(){
   if(on_calibrasi == false){ 
     adcVolt -= cal_value;
     adcVolt = abs(adcVolt);
+    Serial.print("Pada mA :");
     Serial.print(adcVolt);
     Serial.println(" mA"); 
     adcVolt /= 1000;
+    Serial.print("Pada A :");
     Serial.print(adcVolt);
     Serial.println(" A");
   }
