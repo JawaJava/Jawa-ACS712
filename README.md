@@ -1,6 +1,6 @@
-Jawa-ACS712(Beta)
+Jawa-ACS712
 ===========
 
 Sebuah Code ACS712 dengan Kalibrasi sederhana,
 
-Mohon Menunggu Masih Dalam Pengembangan.
+cara penggunaan dapat anda lihat pada link ini : http://jawaplugin.blogspot.com/2014/08/mengatasi-sensor-arus-acs712-tidak.html
